@@ -1,0 +1,42 @@
+{
+  "Resturant": [
+    {
+      "name": "subway",
+      "address": "Delhi",
+      "email": "subway@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "gupta sweet",
+      "address": "panchkula",
+      "email": "gupta@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Runak hotel",
+      "address": "pinjore near bitna road",
+      "email": "runak@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "My Pizza",
+      "address": "kalaka",
+      "email": "pizza@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Dominose",
+      "address": "panchkula",
+      "email": "dominose@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Lickers",
+      "address": "kalka",
+      "email": "licker@gmail.com"
+    }
+   
+   
+  ]
+}
